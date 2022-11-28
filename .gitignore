@@ -1,23 +1,30 @@
-# Compiled class file
-*.class
+public class javaJobsInManchester {
 
-# Log file
-*.log
+   "This is a new advetisemnt for the jobs in Manchesetr"
+   This will print 'I need a new job' as the output
+    */
+    
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+   public static void main(String []args) {
+   
+   
+      System.out.println("I new a job ");
+      
+      /*
+      I am currently working ona few roles in Manchester that are looking for Java sofwtar engineers.
+      One of them beeing a digitial first orgasnaition that works with Java 18 Spring AWS and terraform.
+      The slary can be up to £75,000 plus benefits for senio developers 
+      The salary for mid level developers can be up £55,000 plus benefits.
+      2 days in the office Tuesday and Wednesday.
+      The role offers greart vertical and horizontal mobility.
+      Do you want to know more?
+      
+      DM me on LinkedIn: https://www.linkedin.com/in/karolis-lari-javarecruiter/ 
+      OR 
+      E-mail at karolis.lari@ecomrecruitment.com
+      
+      The ball is your court.
+      
+      */
+   }
+}
